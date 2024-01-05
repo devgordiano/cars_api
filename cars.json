@@ -30,5 +30,21 @@
     "potencia": "200cv",
     "recarga": "50 min",
     "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+  },
+  {
+    "id": 4,
+    "preco": "R$ 10,00",
+    "bateria": "13000 kWh",
+    "potencia": "2cv",
+    "recarga": "5 min",
+    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+  },
+  {
+    "id": 4,
+    "preco": "R$ 1.000,00",
+    "bateria": "130 kWh",
+    "potencia": "200cv",
+    "recarga": "500000 min",
+    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
   }
 ]
